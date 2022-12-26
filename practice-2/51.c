@@ -12,7 +12,7 @@ Examples
 #include<stdio.h>
 
 
-int main()
+int main(void)
 {
 	unsigned int a;
 	printf("Enter the valid integer number\n");
